@@ -3,8 +3,6 @@ backend:
   repo: "yizhaocannas18/yizhaocannas18.github.io"
   branch: main
   base_url: https://api.staticnet.app
-  site_domain: yizhaocannas18.github.io
-  auth_endpoint: auth/github
 
 media_folder: "static/img"
 public_folder: "/img"
