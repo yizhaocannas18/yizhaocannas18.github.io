@@ -1,14 +1,22 @@
-baseURL = "https://yizhaocannas18.github.io/"
+baseURL = "https://yizhaocannas18.github.io/yizhaocannas.github.io/"
+canonifyURLs = true
 languageCode = "it-IT"
 defaultContentLanguage = "it"
 title = "Portfolio Fotografico"
 theme = "hello-friend-ng"
 
 [params]
-  # Modifica questo per includere i post in una visualizzazione tipo galleria
-  # (Dipende dalla versione del tema, ma di base hello-friend-ng mostra le cover)
+  # Configurazione base del tema
   showPostCoverInList = true
   showPostCoverInSingle = true
+
+  # Personalizza il logo testuale
+  [params.logo]
+    logoText = "Portfolio Fotografico"
+    logoHomeLink = "/"
+
+  [params.author]
+    name = "Fotografo"
 
 [languages.it]
   title = "Portfolio Fotografico"
