@@ -2,7 +2,7 @@ backend:
   name: github
   repo: "yizhaocannas18/yizhaocannas18.github.io"
   branch: main
-  base_url: https://api.staticnet.app
+  base_url: https://decap-cms-github-oauth.pcarion.com
 
 media_folder: "static/img"
 public_folder: "/img"
