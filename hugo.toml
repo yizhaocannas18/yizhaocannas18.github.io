@@ -1,4 +1,4 @@
-baseURL = "https://yizhaocannas18.github.io/yizhaocannas.github.io/"
+baseURL = "https://yizhaocannas18.github.io/"
 canonifyURLs = true
 languageCode = "it-IT"
 defaultContentLanguage = "it"

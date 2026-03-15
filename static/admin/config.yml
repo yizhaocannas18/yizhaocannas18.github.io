@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: "yizhaocannas18/yizhaocannas.github.io" # Deve coincidere con il repository
+  repo: "yizhaocannas18/yizhaocannas18.github.io" # Deve coincidere con il repository
   branch: main # O il nome del tuo branch principale
 
 media_folder: "static/img"
